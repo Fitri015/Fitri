@@ -1,0 +1,12 @@
+string nama;
+int tgl lahir;
+int umur;
+string domisili;
+
+
+
+int main(int argc, char *argv[])
+{
+cout << "masukkan nama : ";
+cin >> nama;
+cout << nama;
